@@ -1,0 +1,180 @@
+.branco {
+	width: 100%;
+	height: 100px;
+}
+
+h1 {
+	text-align: center;
+	border: 1px red solid;
+	width: 100%;
+}
+
+p {
+	border: 1px blue solid;
+}
+
+#titulo2 p {
+	text-align: center;
+}
+
+#titulo3 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo3 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo4 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo4 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo4 li {
+	list-style: none;
+}
+
+#titulo4 ul {
+	margin-left: -37px;
+}
+
+/* Titulo 5 */
+
+#titulo5 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo5 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo5 .p1 {
+	margin-top: 60px;
+}
+
+#titulo5 li {
+	float: left;
+	padding: 1px 15px;
+	margin-left: -50px;
+	padding-right: 80px;
+	list-style: none;
+}
+
+/* Titulo 6 */
+
+#titulo6 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo6 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo6 .p1 {
+	margin-top: 60px;
+}
+
+#titulo6 li {
+	float: left;
+	padding: 1px 15px;
+	margin-left: -40px;
+	margin-right: 60px;
+	list-style: none;
+	background-color: black;
+}
+
+#titulo6 a {
+	text-decoration: none;
+	color: white;
+}
+
+/* Titulo 7 */
+
+#titulo7 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo7 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo7 a, #titulo7 li {
+	list-style: none;
+	text-decoration: none;
+}
+
+#titulo7 ul {
+	width: 100%;
+	border: 1px transparent solid;
+	border-bottom: 20px transparent solid;
+	margin: 0px 35%;
+}
+
+#titulo7 li {
+	float: left;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+/* Titulo 8 */
+
+#titulo8 h1 {
+	background-color: black;
+	color: white;
+}
+
+#titulo8 p {
+	text-align: center;
+	background-color: red;
+	color: yellow;
+}
+
+#titulo8 a, #titulo8 li {
+	list-style: none;
+	text-decoration: none;
+}
+
+#titulo8 ul {
+	width: 100%;
+	border: 1px transparent solid;
+	border-bottom: 20px transparent solid;
+	margin: 0px 35%;
+}
+
+#titulo8 li {
+	float: left;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+#titulo7 li, #titulo8 li {
+	background-color: black;
+	padding: 4px;
+}
+
+#titulo7 a, #titulo8 a {
+	color: white;
+}
+
+#titulo8 table {
+	margin-right: 21.5%;
+	margin-left: 21.5%;
+}
